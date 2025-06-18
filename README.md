@@ -52,15 +52,3 @@ Untuk bagian seperti **rambut, aksesoris, atau skin** yang bisa dikustomisasi da
 3. Gunakan `Sprite Index` dan `Color Index` untuk mengatur tampilan awal.
 
 ---
-
-## 💡 Contoh Kode Penggunaan
-
-```csharp
-// Mengganti rambut ke opsi kedua (Hair3)
-customizableElement.SpriteIndex = 1;
-
-// Mengganti warna rambut ke abu terang
-customizableElement.ColorIndex = 3;
-
-// Ganti outfit karakter ke FireFighter
-spriteOutfitSwitcher.SwitchOutfit("FireFighter");
