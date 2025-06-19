@@ -490,7 +490,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 424409655}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4e60b5b23fab34c42b19563034e767ad, type: 3}
+  m_Script: {fileID: 11500000, guid: 6a25f03f3d274494d94b96a5dbe9a81d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   _spriteRenderer: {fileID: 424409658}
@@ -501,14 +501,15 @@ MonoBehaviour:
     PositionModifier: {x: 0, y: 0, z: 0}
   - Sprite: {fileID: 3142510713902398828, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
     PositionModifier: {x: 0, y: 0, z: 0}
-  <SpriteIndex>k__BackingField: 0
+  <SpriteIndex>k__BackingField: 2
   _colorOptions:
   - {r: 0, g: 0, b: 0, a: 0}
-  - {r: 0.4113207, g: 0.3965752, b: 0.3965752, a: 0}
-  - {r: 0.6981132, g: 0.6678177, b: 0.6678177, a: 0}
-  - {r: 0.90943396, g: 0.88369524, b: 0.88369524, a: 0}
-  - {r: 1, g: 1, b: 1, a: 0}
-  <ColorIndex>k__BackingField: 3
+  - {r: 0.3660378, g: 0.35291567, b: 0.35291567, a: 0}
+  - {r: 0.5849056, g: 0.55069417, b: 0.55069417, a: 0}
+  - {r: 0.78113204, g: 0.77671057, b: 0.77671057, a: 0}
+  - {r: 0.8867924, g: 0.86838734, b: 0.86838734, a: 0}
+  - {r: 0.8867924, g: 0.86838734, b: 0.86838734, a: 0}
+  <ColorIndex>k__BackingField: 0
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -1233,116 +1234,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 739439066}
   m_CullTransparentMesh: 1
---- !u!212 &872532494 stripped
-SpriteRenderer:
-  m_CorrespondingSourceObject: {fileID: -7937074654580720300, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
-  m_PrefabInstance: {fileID: 1969930339}
-  m_PrefabAsset: {fileID: 0}
---- !u!212 &872532495 stripped
-SpriteRenderer:
-  m_CorrespondingSourceObject: {fileID: -2608754824767463966, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
-  m_PrefabInstance: {fileID: 1969930339}
-  m_PrefabAsset: {fileID: 0}
---- !u!212 &872532496 stripped
-SpriteRenderer:
-  m_CorrespondingSourceObject: {fileID: 6436291838664070683, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
-  m_PrefabInstance: {fileID: 1969930339}
-  m_PrefabAsset: {fileID: 0}
---- !u!212 &872532497 stripped
-SpriteRenderer:
-  m_CorrespondingSourceObject: {fileID: -3303530373646995574, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
-  m_PrefabInstance: {fileID: 1969930339}
-  m_PrefabAsset: {fileID: 0}
---- !u!212 &872532498 stripped
-SpriteRenderer:
-  m_CorrespondingSourceObject: {fileID: 4370793461728875935, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
-  m_PrefabInstance: {fileID: 1969930339}
-  m_PrefabAsset: {fileID: 0}
---- !u!212 &872532499 stripped
-SpriteRenderer:
-  m_CorrespondingSourceObject: {fileID: -6348631163421243033, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
-  m_PrefabInstance: {fileID: 1969930339}
-  m_PrefabAsset: {fileID: 0}
---- !u!212 &872532500 stripped
-SpriteRenderer:
-  m_CorrespondingSourceObject: {fileID: -1070242941796418532, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
-  m_PrefabInstance: {fileID: 1969930339}
-  m_PrefabAsset: {fileID: 0}
---- !u!212 &872532501 stripped
-SpriteRenderer:
-  m_CorrespondingSourceObject: {fileID: -1206509628253265245, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
-  m_PrefabInstance: {fileID: 1969930339}
-  m_PrefabAsset: {fileID: 0}
---- !u!212 &872532502 stripped
-SpriteRenderer:
-  m_CorrespondingSourceObject: {fileID: 1725365453612162954, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
-  m_PrefabInstance: {fileID: 1969930339}
-  m_PrefabAsset: {fileID: 0}
---- !u!212 &872532503 stripped
-SpriteRenderer:
-  m_CorrespondingSourceObject: {fileID: -4739423801035745174, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
-  m_PrefabInstance: {fileID: 1969930339}
-  m_PrefabAsset: {fileID: 0}
---- !u!212 &872532504 stripped
-SpriteRenderer:
-  m_CorrespondingSourceObject: {fileID: 1820339738033877695, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
-  m_PrefabInstance: {fileID: 1969930339}
-  m_PrefabAsset: {fileID: 0}
---- !u!212 &872532505 stripped
-SpriteRenderer:
-  m_CorrespondingSourceObject: {fileID: 6877399982178698335, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
-  m_PrefabInstance: {fileID: 1969930339}
-  m_PrefabAsset: {fileID: 0}
---- !u!212 &872532506 stripped
-SpriteRenderer:
-  m_CorrespondingSourceObject: {fileID: -7631755242318163089, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
-  m_PrefabInstance: {fileID: 1969930339}
-  m_PrefabAsset: {fileID: 0}
---- !u!212 &872532507 stripped
-SpriteRenderer:
-  m_CorrespondingSourceObject: {fileID: 5065645451698612980, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
-  m_PrefabInstance: {fileID: 1969930339}
-  m_PrefabAsset: {fileID: 0}
---- !u!212 &872532508 stripped
-SpriteRenderer:
-  m_CorrespondingSourceObject: {fileID: 5383134010993995906, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
-  m_PrefabInstance: {fileID: 1969930339}
-  m_PrefabAsset: {fileID: 0}
---- !u!212 &872532509 stripped
-SpriteRenderer:
-  m_CorrespondingSourceObject: {fileID: -3198367730262865273, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
-  m_PrefabInstance: {fileID: 1969930339}
-  m_PrefabAsset: {fileID: 0}
---- !u!212 &872532510 stripped
-SpriteRenderer:
-  m_CorrespondingSourceObject: {fileID: -2988073278790682749, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
-  m_PrefabInstance: {fileID: 1969930339}
-  m_PrefabAsset: {fileID: 0}
---- !u!212 &872532511 stripped
-SpriteRenderer:
-  m_CorrespondingSourceObject: {fileID: -5443869003025940233, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
-  m_PrefabInstance: {fileID: 1969930339}
-  m_PrefabAsset: {fileID: 0}
---- !u!212 &872532512 stripped
-SpriteRenderer:
-  m_CorrespondingSourceObject: {fileID: -8027963620462023339, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
-  m_PrefabInstance: {fileID: 1969930339}
-  m_PrefabAsset: {fileID: 0}
---- !u!212 &872532513 stripped
-SpriteRenderer:
-  m_CorrespondingSourceObject: {fileID: -635936666223709861, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
-  m_PrefabInstance: {fileID: 1969930339}
-  m_PrefabAsset: {fileID: 0}
---- !u!212 &872532514 stripped
-SpriteRenderer:
-  m_CorrespondingSourceObject: {fileID: 4086431751844116112, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
-  m_PrefabInstance: {fileID: 1969930339}
-  m_PrefabAsset: {fileID: 0}
---- !u!212 &872532515 stripped
-SpriteRenderer:
-  m_CorrespondingSourceObject: {fileID: -8791775465422562227, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
-  m_PrefabInstance: {fileID: 1969930339}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &905045552
 GameObject:
   m_ObjectHideFlags: 0
@@ -1587,14 +1478,14 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1972923918}
+      - m_Target: {fileID: 1972923920}
         m_TargetAssemblyTypeName: AnimationButtonTrigger, Assembly-CSharp
         m_MethodName: TriggerActionAnimation
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
+          m_IntArgument: 1
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -1646,7 +1537,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1436272475}
-  - component: {fileID: 1436272474}
+  - component: {fileID: 1436272476}
   m_Layer: 0
   m_Name: Controller
   m_TagString: Untagged
@@ -1654,170 +1545,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &1436272474
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1436272473}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e882a9e017aff5f4ba4eabde9eba18d9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  outfitList:
-  - outfitName: FireFighter
-    sprites:
-    - partName: Body
-      targetRenderer: {fileID: 1969930349}
-      sprite: {fileID: -1277123181514459209, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
-    - partName: Shirt
-      targetRenderer: {fileID: 1969930348}
-      sprite: {fileID: -7206298490210728711, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
-    - partName: Shirt
-      targetRenderer: {fileID: 1969930347}
-      sprite: {fileID: 2574901539345984491, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
-    - partName: Shirt
-      targetRenderer: {fileID: 1969930346}
-      sprite: {fileID: -1644129447362397296, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
-    - partName: Shirt
-      targetRenderer: {fileID: 1969930345}
-      sprite: {fileID: 5722900967781020719, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
-    - partName: Collar
-      targetRenderer: {fileID: 1969930344}
-      sprite: {fileID: -6960446021820255045, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
-    - partName: Neck
-      targetRenderer: {fileID: 1969930343}
-      sprite: {fileID: 1064308800965945124, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
-    - partName: PantBase
-      targetRenderer: {fileID: 1969930342}
-      sprite: {fileID: 8418235423552790176, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
-    - partName: Leg
-      targetRenderer: {fileID: 1969930341}
-      sprite: {fileID: 9019120775384160438, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
-    - partName: Leg
-      targetRenderer: {fileID: 1969930340}
-      sprite: {fileID: 1006290624040634247, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
-  - outfitName: Suit
-    sprites:
-    - partName: Body
-      targetRenderer: {fileID: 1969930349}
-      sprite: {fileID: 7750751481537345811, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
-    - partName: Shirt
-      targetRenderer: {fileID: 1969930348}
-      sprite: {fileID: -9062571783679551758, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
-    - partName: Shirt
-      targetRenderer: {fileID: 1969930347}
-      sprite: {fileID: 4525784428237912652, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
-    - partName: Shirt
-      targetRenderer: {fileID: 1969930345}
-      sprite: {fileID: 760988083331644051, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
-    - partName: Shirt
-      targetRenderer: {fileID: 1969930346}
-      sprite: {fileID: 7317442865898706344, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
-    - partName: Collar
-      targetRenderer: {fileID: 1969930344}
-      sprite: {fileID: 0}
-    - partName: PantBase
-      targetRenderer: {fileID: 1969930342}
-      sprite: {fileID: -229262829470922894, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
-    - partName: Leg
-      targetRenderer: {fileID: 1969930341}
-      sprite: {fileID: 3302144323013213821, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
-    - partName: Leg
-      targetRenderer: {fileID: 1969930340}
-      sprite: {fileID: -2863230031870126247, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
-  - outfitName: Doctor
-    sprites:
-    - partName: Body
-      targetRenderer: {fileID: 1969930349}
-      sprite: {fileID: -1374984754785164162, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
-    - partName: Shirt
-      targetRenderer: {fileID: 1969930348}
-      sprite: {fileID: 136804859578200802, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
-    - partName: Shirt
-      targetRenderer: {fileID: 1969930347}
-      sprite: {fileID: -5554034689762403999, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
-    - partName: Shirt
-      targetRenderer: {fileID: 1969930345}
-      sprite: {fileID: 6244759251421134171, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
-    - partName: Shirt
-      targetRenderer: {fileID: 1969930346}
-      sprite: {fileID: -7420983741864232021, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
-    - partName: Collar
-      targetRenderer: {fileID: 1969930344}
-      sprite: {fileID: 0}
-    - partName: PantBase
-      targetRenderer: {fileID: 1969930342}
-      sprite: {fileID: 2402840097598194017, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
-    - partName: Leg
-      targetRenderer: {fileID: 1969930341}
-      sprite: {fileID: 2557462394923003514, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
-    - partName: Leg
-      targetRenderer: {fileID: 1969930340}
-      sprite: {fileID: 6746330785166752822, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
-  - outfitName: Cloth
-    sprites:
-    - partName: Body
-      targetRenderer: {fileID: 1969930349}
-      sprite: {fileID: 7992651816442523584, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
-    - partName: Shirt
-      targetRenderer: {fileID: 1969930348}
-      sprite: {fileID: 0}
-    - partName: Shirt
-      targetRenderer: {fileID: 1969930347}
-      sprite: {fileID: 0}
-    - partName: Shirt
-      targetRenderer: {fileID: 1969930345}
-      sprite: {fileID: 4966824016442074222, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
-    - partName: Shirt
-      targetRenderer: {fileID: 1969930346}
-      sprite: {fileID: 8278817553786794752, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
-    - partName: Collar
-      targetRenderer: {fileID: 1969930344}
-      sprite: {fileID: 0}
-    - partName: PantBase
-      targetRenderer: {fileID: 1969930342}
-      sprite: {fileID: 3856998426983359323, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
-    - partName: Leg
-      targetRenderer: {fileID: 1969930341}
-      sprite: {fileID: 6145001808195664798, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
-    - partName: Leg
-      targetRenderer: {fileID: 1969930340}
-      sprite: {fileID: 5023948714142935506, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
-  allPartRenderers:
-  - {fileID: 872532515}
-  - {fileID: 872532514}
-  - {fileID: 1969930349}
-  - {fileID: 872532513}
-  - {fileID: 1969930344}
-  - {fileID: 872532512}
-  - {fileID: 872532511}
-  - {fileID: 1969930341}
-  - {fileID: 872532510}
-  - {fileID: 872532509}
-  - {fileID: 872532508}
-  - {fileID: 1969930340}
-  - {fileID: 872532507}
-  - {fileID: 872532506}
-  - {fileID: 872532505}
-  - {fileID: 1969930342}
-  - {fileID: 872532504}
-  - {fileID: 872532503}
-  - {fileID: 1969930345}
-  - {fileID: 872532502}
-  - {fileID: 872532501}
-  - {fileID: 1969930346}
-  - {fileID: 872532500}
-  - {fileID: 872532499}
-  - {fileID: 1969930348}
-  - {fileID: 872532498}
-  - {fileID: 872532497}
-  - {fileID: 872532496}
-  - {fileID: 872532496}
-  - {fileID: 872532495}
-  - {fileID: 872532494}
 --- !u!4 &1436272475
 Transform:
   m_ObjectHideFlags: 0
@@ -1833,6 +1560,148 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1436272476
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1436272473}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f4a64c8d42edb74cb9075ab9e5aca74, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  outfitList:
+  - outfitName: FireFighter
+    sprites:
+    - partName: Baju
+      targetRenderer: {fileID: 1969930349}
+      sprite: {fileID: -1277123181514459209, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
+    - partName: Neck
+      targetRenderer: {fileID: 1969930344}
+      sprite: {fileID: -6960446021820255045, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
+    - partName: Shirt_2L
+      targetRenderer: {fileID: 1969930348}
+      sprite: {fileID: -7206298490210728711, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
+    - partName: Shirt_2R
+      targetRenderer: {fileID: 1969930347}
+      sprite: {fileID: 2574901539345984491, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
+    - partName: Shirt_1R
+      targetRenderer: {fileID: 1969930346}
+      sprite: {fileID: -1644129447362397296, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
+    - partName: Shirt_1L
+      targetRenderer: {fileID: 1969930345}
+      sprite: {fileID: 5722900967781020719, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
+    - partName: Pant
+      targetRenderer: {fileID: 1969930342}
+      sprite: {fileID: 8418235423552790176, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
+    - partName: Pant LegR
+      targetRenderer: {fileID: 1969930340}
+      sprite: {fileID: 1006290624040634247, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
+    - partName: Pant LegL
+      targetRenderer: {fileID: 1969930341}
+      sprite: {fileID: 9019120775384160438, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
+    - partName: Neck
+      targetRenderer: {fileID: 1969930343}
+      sprite: {fileID: 1064308800965945124, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
+  - outfitName: Suit
+    sprites:
+    - partName: Baju
+      targetRenderer: {fileID: 1969930349}
+      sprite: {fileID: 7750751481537345811, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
+    - partName: Neck
+      targetRenderer: {fileID: 1969930343}
+      sprite: {fileID: 1064308800965945124, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
+    - partName: Shirt_2L
+      targetRenderer: {fileID: 1969930348}
+      sprite: {fileID: -9062571783679551758, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
+    - partName: Shirt_2R
+      targetRenderer: {fileID: 1969930347}
+      sprite: {fileID: 4525784428237912652, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
+    - partName: Shirt_1R
+      targetRenderer: {fileID: 1969930346}
+      sprite: {fileID: 7317442865898706344, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
+    - partName: Shirt_1L
+      targetRenderer: {fileID: 1969930345}
+      sprite: {fileID: 760988083331644051, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
+    - partName: Pant
+      targetRenderer: {fileID: 1969930342}
+      sprite: {fileID: -229262829470922894, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
+    - partName: Pant LegR
+      targetRenderer: {fileID: 1969930340}
+      sprite: {fileID: -2863230031870126247, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
+    - partName: Pant LegL
+      targetRenderer: {fileID: 1969930341}
+      sprite: {fileID: 3302144323013213821, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
+    - partName: Neck
+      targetRenderer: {fileID: 1969930344}
+      sprite: {fileID: 0}
+  - outfitName: Doctor
+    sprites:
+    - partName: Baju
+      targetRenderer: {fileID: 1969930349}
+      sprite: {fileID: -1374984754785164162, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
+    - partName: Neck
+      targetRenderer: {fileID: 1969930343}
+      sprite: {fileID: 1064308800965945124, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
+    - partName: Shirt_2L
+      targetRenderer: {fileID: 1969930348}
+      sprite: {fileID: 136804859578200802, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
+    - partName: Shirt_2R
+      targetRenderer: {fileID: 1969930347}
+      sprite: {fileID: -5554034689762403999, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
+    - partName: Shirt_1R
+      targetRenderer: {fileID: 1969930346}
+      sprite: {fileID: -7420983741864232021, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
+    - partName: Shirt_1L
+      targetRenderer: {fileID: 1969930345}
+      sprite: {fileID: 6244759251421134171, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
+    - partName: Pant
+      targetRenderer: {fileID: 1969930342}
+      sprite: {fileID: 2402840097598194017, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
+    - partName: Pant LegR
+      targetRenderer: {fileID: 1969930340}
+      sprite: {fileID: 6746330785166752822, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
+    - partName: Pant LegL
+      targetRenderer: {fileID: 1969930341}
+      sprite: {fileID: 2557462394923003514, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
+    - partName: Neck
+      targetRenderer: {fileID: 1969930344}
+      sprite: {fileID: 0}
+  - outfitName: Cloth
+    sprites:
+    - partName: Baju
+      targetRenderer: {fileID: 1969930349}
+      sprite: {fileID: 7992651816442523584, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
+    - partName: Neck
+      targetRenderer: {fileID: 1969930343}
+      sprite: {fileID: 1064308800965945124, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
+    - partName: Shirt_2L
+      targetRenderer: {fileID: 1969930348}
+      sprite: {fileID: 0}
+    - partName: Shirt_2R
+      targetRenderer: {fileID: 1969930347}
+      sprite: {fileID: 0}
+    - partName: Shirt_1R
+      targetRenderer: {fileID: 1969930346}
+      sprite: {fileID: 8278817553786794752, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
+    - partName: Shirt_1L
+      targetRenderer: {fileID: 1969930345}
+      sprite: {fileID: 4966824016442074222, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
+    - partName: Pant
+      targetRenderer: {fileID: 1969930342}
+      sprite: {fileID: 3856998426983359323, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
+    - partName: Pant LegR
+      targetRenderer: {fileID: 1969930340}
+      sprite: {fileID: 5023948714142935506, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
+    - partName: Pant LegL
+      targetRenderer: {fileID: 1969930341}
+      sprite: {fileID: 6145001808195664798, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
+    - partName: Neck
+      targetRenderer: {fileID: 1969930344}
+      sprite: {fileID: 0}
+  allPartRenderers: []
 --- !u!1 &1588248037
 GameObject:
   m_ObjectHideFlags: 0
@@ -1917,7 +1786,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1436272474}
+      - m_Target: {fileID: 1436272476}
         m_TargetAssemblyTypeName: SpriteOutfitSwitcher, Assembly-CSharp
         m_MethodName: NextOutfit
         m_Mode: 1
@@ -2844,11 +2713,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5999041207167196759, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
       propertyPath: m_Size.x
-      value: 0.76
+      value: 0.63
       objectReference: {fileID: 0}
     - target: {fileID: 5999041207167196759, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
       propertyPath: m_Size.y
-      value: 0.4
+      value: 0.69
       objectReference: {fileID: 0}
     - target: {fileID: 5999041207167196759, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
       propertyPath: m_Sprite
@@ -2861,18 +2730,18 @@ PrefabInstance:
     - target: {fileID: 6090109240103034053, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: -7922622209101708971, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
+      objectReference: {fileID: 3142510713902398828, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
     - target: {fileID: 6090109240103034053, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
       propertyPath: m_Color.b
-      value: 0.88369524
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6090109240103034053, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
       propertyPath: m_Color.g
-      value: 0.88369524
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6090109240103034053, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
       propertyPath: m_Color.r
-      value: 0.90943396
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6436291838664070683, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
       propertyPath: m_Sprite
@@ -3012,7 +2881,7 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
---- !u!114 &1972923918
+--- !u!114 &1972923920
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3021,7 +2890,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1972923915}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 137b2f0e5310a5f408a2ed4e0d43947c, type: 3}
+  m_Script: {fileID: 11500000, guid: 358ffb233cf812541965ffe404b22bbe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   animator: {fileID: 1972923917}
@@ -3109,7 +2978,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1436272474}
+      - m_Target: {fileID: 1436272476}
         m_TargetAssemblyTypeName: SpriteOutfitSwitcher, Assembly-CSharp
         m_MethodName: PreviousOutfit
         m_Mode: 1
