@@ -209,4 +209,25 @@ MonoBehaviour:
       m_SpriteOverride: {fileID: -6960446021820255045, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
     m_FromMain: 0
     m_EntryOverrideCount: 1
+  - m_Name: Hair
+    m_Hash: 1019596327
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Hair 1
+      m_Hash: 597317488
+      m_Sprite: {fileID: -8385977050484167880, guid: 50e0a36ffcab3ff45a712408a99d0fcf, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -8385977050484167880, guid: 50e0a36ffcab3ff45a712408a99d0fcf, type: 3}
+    - m_Name: Hair 2
+      m_Hash: 982714058
+      m_Sprite: {fileID: 8135325398906972648, guid: a494160c2b8edd948a1a3e9209f955bc, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 8135325398906972648, guid: a494160c2b8edd948a1a3e9209f955bc, type: 3}
+    - m_Name: Entry
+      m_Hash: 719368820
+      m_Sprite: {fileID: 6246727657948560503, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 6246727657948560503, guid: ddcbcd7a22de7d0478c842204e3d0297, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 3
   m_PrimaryLibraryGUID: 
